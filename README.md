@@ -61,4 +61,4 @@ Welcome to my GitHub! I'm a **Software Engineer** passionate about solving real-
 
 ---
 
-![Gadisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gadisa21&show_icons=true&theme=radical)  
+![Gadisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gadisa21&show_icons=true&theme=radical&cache_seconds=3600)  
