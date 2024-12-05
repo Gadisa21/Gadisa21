@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gadisa Abdisa!  
 
-Welcome to my GitHub! I'm a **Software Engineer** passionate about solving real-world problems and building impactful solutions. With a focus on writing efficient, optimized code, I aim to deliver robust systems as a well-rounded full-stack web developer.  
+Welcome to my GitHub! I'm a **Software Engineer** passionate about solving real-world problems and building impactful solutions. With a focus on writing efficient, optimized code, I aim to deliver robust systems as a well-rounded full-stack web developer.  I'm also exploring **Machine Learning** and **AI**, with a strong interest in applying these technologies to build smarter solutions.
 
 ## 🚀 About Me  
 - 💻 Skilled in designing and developing solutions that solve real-world challenges.  
