@@ -55,9 +55,9 @@ Welcome to my GitHub! I'm a **Software Engineer** passionate about solving real-
 - 🏅 Successfully completed the **A2SV program**, focusing on data structures, algorithms, and development.  
 
 ## 📫 Let's Connect!  
-- 🌐 Portfolio: [gadisabdisa.com](https://gadisabdisa.com/)  
-- 💼 LinkedIn: [Gadisa Abdisa](https://www.linkedin.com/in/gadisa-abdisa/)  
-- 📧 Email: [gadisadiriba25@gmail.com](mailto:gadisadiriba25@gmail.com)  
+- 🌐 Portfolio: [gadisabdisa.com](https://gadisabdisa.com/){:target="_blank"} 
+- 💼 LinkedIn: [Gadisa Abdisa](https://www.linkedin.com/in/gadisa-abdisa/){:target="_blank"} 
+- 📧 Email: [gadisadiriba25@gmail.com](mailto:gadisadiriba25@gmail.com){:target="_blank"} 
 
 ---
 
