@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Software Engineer** passionate about solving real-
 ## 🚀 About Me  
 - 💻 Skilled in designing and developing solutions that solve real-world challenges. 
 - 🧑‍🤝‍🧑 Former group leader at **Evangadi Full Stack Development Bootcamp**.  
-- 🌟 Focused on mastering both frontend and backend technologies for scalable and maintainable applications. 
+- 🌟 Focused on mastering both frontend and backend technologies for scalable and maintainable applications.
 
 ## 🛠️ Skills & Technologies  
 
